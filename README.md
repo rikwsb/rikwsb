@@ -4,6 +4,8 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 * [![HTML5][HTML5.com]][HTML5-url]
 * [![Javascript][Javascript.com]][Javascript-url]
 * [![C++][Cplusplus.com]][C++-url]
